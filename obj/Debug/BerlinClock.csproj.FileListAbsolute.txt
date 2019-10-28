@@ -1,0 +1,7 @@
+C:\Users\Mahendra_Dubey\Documents\DotNetBerlinClock\obj\Debug\BerlinClock.csprojResolveAssemblyReference.cache
+C:\Users\Mahendra_Dubey\Documents\DotNetBerlinClock\bin\Debug\BerlinClock.dll.config
+C:\Users\Mahendra_Dubey\Documents\DotNetBerlinClock\bin\Debug\BerlinClock.dll
+C:\Users\Mahendra_Dubey\Documents\DotNetBerlinClock\bin\Debug\BerlinClock.pdb
+C:\Users\Mahendra_Dubey\Documents\DotNetBerlinClock\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Mahendra_Dubey\Documents\DotNetBerlinClock\obj\Debug\BerlinClock.dll
+C:\Users\Mahendra_Dubey\Documents\DotNetBerlinClock\obj\Debug\BerlinClock.pdb

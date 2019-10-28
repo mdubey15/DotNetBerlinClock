@@ -23,10 +23,19 @@ namespace BerlinClock.BDD
     {
         
         private static TechTalk.SpecFlow.ITestRunner testRunner;
+        private Microsoft.VisualStudio.TestTools.UnitTesting.TestContext _testContext;
         
 #line 1 "BerlinClockFeatureSteps.feature"
 #line hidden
-        
+
+        #region properties
+        public virtual Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext
+        {
+            get{return this._testContext;}
+            set{this._testContext = value;}
+        }
+        #endregion
+
         [Microsoft.VisualStudio.TestTools.UnitTesting.ClassInitializeAttribute()]
         public static void FeatureSetup(Microsoft.VisualStudio.TestTools.UnitTesting.TestContext testContext)
         {
